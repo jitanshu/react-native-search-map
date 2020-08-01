@@ -7,4 +7,5 @@ Major Libraries Used :
   2. react-native-community/geolocation
   3. axios
 
-![](https://imgur.com/undefined)
+Splash Screen                                                                       Login Screen
+![](https://imgur.com/6VzN4gk)                                                       ![](https://imgur.com/6VzN4gk)

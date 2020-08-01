@@ -11,4 +11,4 @@ Splash Screen
 ![](https://imgur.com/6VzN4gk)  
 
  Login Screen
-![](https://imgur.com/6VzN4gk)
+![](https://imgur.com/NuXWzFO)
